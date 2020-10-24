@@ -49,6 +49,13 @@
   align-items: center;
   padding: 5px;
   color: #fff;
+  background: rgba(0, 0, 0, 0.247);
+  max-width: 70%;
+  margin: 0.5rem;
+
+  &:hover {
+    background: rgba(0, 0, 0, 0.466);
+  }
 
   &__info {
     margin-left: 1rem;
