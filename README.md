@@ -9,7 +9,7 @@
 
 <h2> Functionality </h2>
 <ul>
-  <li> <b> Store data globally by <h5>REDUX </h5> </b>
+  <li> <b> Store data globally by REDUX  </b>
   <li> <b> Google Authentication by Firebase</b>
   <li> <b> Store Channels and Messages in firebase firestore</b>
    <li> <b> Desgined with SCSS</b>
