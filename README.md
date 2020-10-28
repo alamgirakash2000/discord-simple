@@ -1,4 +1,4 @@
-<h1>Discord Simple</h1> <h5> -A full stack web chatting app.</h5>
+<h1>Discord Simple</h1> <h5> -A full-stack real-time web chatting app.</h5>
    <ul> 
 	  <li> <a target="_blank" href="https://simplediscord-akash.netlify.app/"> Live Website Link</a>
 	  <li> <a target="_blank" href="https://github.com/alamgirakash2000/discord-simple"> Client Side Code Link</a>
